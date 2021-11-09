@@ -1,0 +1,13 @@
+com\estudegrupo1\controller\AddressController.class
+com\estudegrupo1\EstudeProjectApplication.class
+com\estudegrupo1\model\Address.class
+com\estudegrupo1\repository\UserRepository.class
+com\estudegrupo1\repository\AddressRepository.class
+com\estudegrupo1\controller\UserController.class
+com\estudegrupo1\repository\TeacherRepository.class
+com\estudegrupo1\model\Student.class
+com\estudegrupo1\model\User.class
+com\estudegrupo1\controller\StudentController.class
+com\estudegrupo1\repository\StudentRepository.class
+com\estudegrupo1\controller\TeacherController.class
+com\estudegrupo1\model\Teacher.class
